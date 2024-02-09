@@ -10,13 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently open to work**
+ 🔭 I’m currently **Open to work**
  
  🌱 I’m currently learning **Machine Learning Specialization DeepLearning AI - Stanford University, Databricks**
-
-
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
+ ⚡ Fun fact **the creator of jupyternotebooks is Colombian.**
 
  </div>
  
@@ -34,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,java,mysql,angular,typescript" />
-    <img src="https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,opencv" /><br>
+    <img src="https://skillicons.dev/icons?i=python,r,sklearn,tensorflow,opencv,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,java,mysql,angular,typescript" /><br>
 </div>
 
 <br/>
